@@ -22,4 +22,4 @@ This project is part of a beginner-friendly virtual lab designed to explore key 
 3. Run `image_processing.py` using Python
 
 ## Author
-Princess — Junior Developer at an AR startup, exploring image processing for augmented reality applications.
+Pavan Kumar Reddy — Junior Developer at an AR startup, exploring image processing for augmented reality applications.
